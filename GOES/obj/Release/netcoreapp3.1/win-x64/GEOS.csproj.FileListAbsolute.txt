@@ -1,0 +1,16 @@
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\bin\Release\netcoreapp3.1\win-x64\GEOS.exe
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\bin\Release\netcoreapp3.1\win-x64\GEOS.deps.json
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\bin\Release\netcoreapp3.1\win-x64\GEOS.runtimeconfig.json
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\bin\Release\netcoreapp3.1\win-x64\GEOS.runtimeconfig.dev.json
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\bin\Release\netcoreapp3.1\win-x64\GEOS.dll
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\bin\Release\netcoreapp3.1\win-x64\GEOS.pdb
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\bin\Release\netcoreapp3.1\win-x64\Newtonsoft.Json.dll
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\obj\Release\netcoreapp3.1\win-x64\GEOS.MainForm.resources
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\obj\Release\netcoreapp3.1\win-x64\GEOS.csproj.GenerateResource.cache
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\obj\Release\netcoreapp3.1\win-x64\GEOS.AssemblyInfoInputs.cache
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\obj\Release\netcoreapp3.1\win-x64\GEOS.AssemblyInfo.cs
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\obj\Release\netcoreapp3.1\win-x64\GEOS.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\obj\Release\netcoreapp3.1\win-x64\GEOS.csproj.CopyComplete
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\obj\Release\netcoreapp3.1\win-x64\GEOS.dll
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\obj\Release\netcoreapp3.1\win-x64\GEOS.pdb
+C:\Users\Bryan Peabody\Source\GEOS-Wallpaper\GEOS\obj\Release\netcoreapp3.1\win-x64\GEOS.genruntimeconfig.cache

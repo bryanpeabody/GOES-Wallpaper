@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8AfwksbV/qiJSuO6wF0nnmAYgrf7w1WuuTV8waC2gjwIAdwvvS7ZmhuIJ89JGT1wWYty77pfYhvZBas9ZIwwng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bryan Peabody\\Source\\GOES-Wallpaper\\GOES\\GOES Wallpaper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bryan Peabody\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

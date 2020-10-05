@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ra1zCbM4iX3QzAP3ElHK4vW+bhK5Xe3TXfPBNpmCTkBaq5FLQEDN51jCx9GnJ1gRRo2SgitMc1NRfuvM7upEAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bryan Peabody\\Source\\GOES-Wallpaper\\GOES\\GOES Wallpaper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bryan Peabody\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Bryan Peabody\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.8\\microsoft.netcore.app.runtime.win-x86.3.1.8.nupkg.sha512",
+    "C:\\Users\\Bryan Peabody\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.8.nupkg.sha512",
+    "C:\\Users\\Bryan Peabody\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x86.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

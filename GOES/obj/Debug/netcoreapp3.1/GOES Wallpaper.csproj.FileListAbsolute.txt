@@ -1,0 +1,18 @@
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\obj\Debug\netcoreapp3.1\GOES Wallpaper.csprojAssemblyReference.cache
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\obj\Debug\netcoreapp3.1\GOES Wallpaper.csproj.GenerateResource.cache
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\obj\Debug\netcoreapp3.1\GOES Wallpaper.AssemblyInfoInputs.cache
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\obj\Debug\netcoreapp3.1\GOES Wallpaper.AssemblyInfo.cs
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\obj\Debug\netcoreapp3.1\GOES Wallpaper.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\obj\Debug\netcoreapp3.1\GOES.MainForm.resources
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\obj\Debug\netcoreapp3.1\GOES Wallpaper.csproj.CopyComplete
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\obj\Debug\netcoreapp3.1\GOES Wallpaper.genruntimeconfig.cache
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\bin\Debug\netcoreapp3.1\GOES Wallpaper.exe
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\bin\Debug\netcoreapp3.1\sources.json
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\bin\Debug\netcoreapp3.1\GOES Wallpaper.deps.json
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\bin\Debug\netcoreapp3.1\GOES Wallpaper.runtimeconfig.json
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\bin\Debug\netcoreapp3.1\GOES Wallpaper.runtimeconfig.dev.json
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\bin\Debug\netcoreapp3.1\GOES Wallpaper.dll
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\bin\Debug\netcoreapp3.1\GOES Wallpaper.pdb
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\obj\Debug\netcoreapp3.1\GOES Wallpaper.dll
+C:\Users\Bryan Peabody\Source\GOES-Wallpaper\GOES\obj\Debug\netcoreapp3.1\GOES Wallpaper.pdb
